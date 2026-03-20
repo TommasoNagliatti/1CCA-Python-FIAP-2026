@@ -1,6 +1,6 @@
-n1 = input ("Digite um numero: ")
-n2 = input ("Digite outro numero: ")
+na = int(input ("Digite um numero: "))
+nb = int(input ("Digite outro numero: "))
 
-soma = n1 + n2
+soma = na + nb
 
 print (f"a soma desses números é: {soma}")
