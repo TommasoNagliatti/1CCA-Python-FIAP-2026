@@ -6,5 +6,4 @@ while cp < 10:
 
     if cp == 3:
         continue
-
     print(f"Produto {cp}")
